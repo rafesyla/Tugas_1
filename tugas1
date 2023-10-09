@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>PRAKTIKUM 1 - PANCASILA</title>
+    </head>
+    <body>
+        <center>
+            <h1>PANCASILA</h1>
+        </center>
+
+        <img src="bintang.webp" alt="Bintang" width="200" height="200" align="left" hspace="30" vspace="30"> <!--hspace : horizontal, vspace : vertical-->
+        <br><br><br><br><br><br>
+        <p>
+            <b>Ketuhanan Yang Maha Esa</b>
+        </p>
+
+        <img src="rantai.jpg" alt="Rantai" width="200" height="200" align="right" hspace="30" vspace="30">
+        <br><br><br><br><br><br>
+        <p style="text-align: right;">
+            <b>Kemanusiaan Yang Adil dan Beradab</b>
+        </p>
+        
+        <img src="Pohon Beringin.png" alt="Pohon Beringin" width="200" height="200" align="left" hspace="30" vspace="30">
+        <br><br><br><br><br><br>
+        <p>
+            <b>Persatuan Indonesia</b>
+        </p>
+
+        <img src="Kepala Banteng.png" alt="Kepala Banteng" width="200" height="200" align="right" hspace="30" vspace="30">
+        <br><br><br><br><br><br>
+        <p style="text-align: right;">
+            <b>Kerakyatan yang di pimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan</b>
+        </p>
+
+        <img src="Padi dan Kapas.png" alt="Padi dan Kapas" width="200" height="200" align="left" hspace="30" vspace="30">
+        <br><br><br><br><br><br>
+        <p>
+            <b>Keadilan sosial bagi seluruh rakyat Indonesia</b>
+        </p>
+
+    </body>
+</html>
