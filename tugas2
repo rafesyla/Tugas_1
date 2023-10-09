@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>PRAKTIKUM 2 - RESEP</title>
+    </head>
+    <body>
+        <center>
+            <h1>Resep Kue Maryam</h1>
+        </center>
+
+        <img src="Kue Maryam.jpg" height="130" width="130" align="right" hspace="30" vspace="30">
+        <h3>Bahan - bahan :</h3>
+        <ul>
+            <li>250 gr tepung terigu</li>
+            <li>1 butir telur</li>
+            <li>3 sdm margarin, lelehkan</li>
+            <li>100 ml air hangat</li>
+            <li>2 sdm susu bubuk (optional)</li>
+            <li>1/2 sdt garam</li>
+            <li>margarin leleh untuk olesan</li>
+            <li>minyak untuk merendam</li>
+        </ul>
+        <hr>
+        <h3>Langkah - langkah</h3>
+        <ol> 
+            <li>Campur semua bahan roti jadi satu</li>
+            <img src="langkah 1.webp" height="100" width="100">
+
+            <li>Uleni sampai kalis (aku pake tangan) jangan takut jika adonan lengket ya, lumuri tangan sesekali dengan tepung (tapi jangan menambahkan tepung) uleni terus sampai adonan kalis</li>
+            <img src="langkah 2.webp" height="100" width="100">
+
+            <li>Kalisnya adonan canai tidak sekalis adonan roti ya, kira - kira seperti ini sudah cukup3</li>
+            <img src="langkah 3.webp" height="100" width="100">
+        </ol>
+    </body>
+</html>
